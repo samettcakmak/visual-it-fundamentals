@@ -2,7 +2,7 @@
 
 > **Hiçbir IT geçmişi olmayanlar, junior sistem mühendisleri ve teknik işe alım uzmanları için günlük hayat analojileriyle hazırlanmış görsel altyapı ve sistem yönetimi rehberleri.**
 
-[![Author: Samet Çakmak](https://img.shields.io/badge/Author-Samet%20Çakmak-blue.svg)](https://github.com/)
+[![Author: Samet Çakmak](https://img.shields.io/badge/Author-Samet%20Çakmak-blue.svg)](https://github.com/samettcakmak)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status: Complete](https://img.shields.io/badge/Format-Visual%20PDF%20Guides-orange.svg)](#)
 
